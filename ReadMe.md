@@ -7,6 +7,8 @@ Pada VIX ini di berikan data berupa data customer history credit
 1. Mengidentifikasi faktor apa saja yang menjadi penyebab customer terlambat membayar tunggakan credit
 2. Mengidentifikasi faktor apa saja yang membuat customer banyak meninggalkan penggunaan kartu credit
 
+![](https://github.com/Ujeeg/VIX-BTPN-Syariah-Data-Engineer/blob/c7e242a083828f1fa85faa09b7710b431b36561e/Gambar/Untitled.png)
+
 # Processing
 1. Melakukan upload data csv pada sql
 2. Melakukan Joining Table Pada data
